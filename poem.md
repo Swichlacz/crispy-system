@@ -1,4 +1,7 @@
-The Raven 
+#The Raven 
+by Edgar Allan Poe
+
+:bird:
 
 Once upon a midnight dreary, while I pondered, weak and weary, 
 Over many a quaint and curious volume of forgotten lore— 
@@ -54,21 +57,21 @@ By the grave and stern decorum of the countenance it wore,
 “Though thy crest be shorn and shaven, thou,” I said, “art sure no craven, 
 Ghastly grim and ancient Raven wandering from the Nightly shore— 
 Tell me what thy lordly name is on the Night’s Plutonian shore!” 
-            Quoth the Raven “Nevermore.” 
+            Quoth the Raven “**_Nevermore_**.” 
 
     Much I marvelled this ungainly fowl to hear discourse so plainly, 
 Though its answer little meaning—little relevancy bore; 
     For we cannot help agreeing that no living human being 
     Ever yet was blessed with seeing bird above his chamber door— 
 Bird or beast upon the sculptured bust above his chamber door, 
-            With such name as “Nevermore.” 
+            With such name as “*Nevermore*.” 
 
     But the Raven, sitting lonely on the placid bust, spoke only 
 That one word, as if his soul in that one word he did outpour. 
     Nothing farther then he uttered—not a feather then he fluttered— 
     Till I scarcely more than muttered “Other friends have flown before— 
 On the morrow he will leave me, as my Hopes have flown before.” 
-            Then the bird said “Nevermore.” 
+            Then the bird said “*Nevermore*.” 
 
     Startled at the stillness broken by reply so aptly spoken, 
 “Doubtless,” said I, “what it utters is its only stock and store 
@@ -82,7 +85,7 @@ Straight I wheeled a cushioned seat in front of bird, and bust and door;
     Then, upon the velvet sinking, I betook myself to linking 
     Fancy unto fancy, thinking what this ominous bird of yore— 
 What this grim, ungainly, ghastly, gaunt, and ominous bird of yore 
-            Meant in croaking “Nevermore.” 
+            Meant in croaking “*Nevermore*.” 
 
     This I sat engaged in guessing, but no syllable expressing 
 To the fowl whose fiery eyes now burned into my bosom’s core; 
@@ -96,28 +99,28 @@ Swung by Seraphim whose foot-falls tinkled on the tufted floor.
     “Wretch,” I cried, “thy God hath lent thee—by these angels he hath sent thee 
     Respite—respite and nepenthe from thy memories of Lenore; 
 Quaff, oh quaff this kind nepenthe and forget this lost Lenore!” 
-            Quoth the Raven “Nevermore.” 
+            Quoth the Raven “**_Nevermore_**.” 
 
     “Prophet!” said I, “thing of evil!—prophet still, if bird or devil!— 
 Whether Tempter sent, or whether tempest tossed thee here ashore, 
     Desolate yet all undaunted, on this desert land enchanted— 
     On this home by Horror haunted—tell me truly, I implore— 
 Is there—is there balm in Gilead?—tell me—tell me, I implore!” 
-            Quoth the Raven “Nevermore.” 
+            Quoth the Raven “**_Nevermore_**.” 
 
     “Prophet!” said I, “thing of evil!—prophet still, if bird or devil! 
 By that Heaven that bends above us—by that God we both adore— 
     Tell this soul with sorrow laden if, within the distant Aidenn, 
     It shall clasp a sainted maiden whom the angels name Lenore— 
 Clasp a rare and radiant maiden whom the angels name Lenore.” 
-            Quoth the Raven “Nevermore.” 
+            Quoth the Raven “**_Nevermore_**.” 
 
     “Be that word our sign of parting, bird or fiend!” I shrieked, upstarting— 
 “Get thee back into the tempest and the Night’s Plutonian shore! 
     Leave no black plume as a token of that lie thy soul hath spoken! 
     Leave my loneliness unbroken!—quit the bust above my door! 
 Take thy beak from out my heart, and take thy form from off my door!” 
-            Quoth the Raven “Nevermore.” 
+            Quoth the Raven “**_Nevermore_**.” 
 
     And the Raven, never flitting, still is sitting, still is sitting 
 On the pallid bust of Pallas just above my chamber door; 
@@ -125,5 +128,5 @@ On the pallid bust of Pallas just above my chamber door;
     And the lamp-light o’er him streaming throws his shadow on the floor; 
 And my soul from out that shadow that lies floating on the floor 
             Shall be lifted—nevermore!
-                          BY EDGAR ALLAN POE
+                          
             https://www.poetryfoundation.org/poems-and-poets/poems/detail/48860
